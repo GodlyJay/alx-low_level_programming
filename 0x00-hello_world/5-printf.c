@@ -1,7 +1,7 @@
 #include <stdio.h>
-/*
- *main - Describes
-return: returns 0
+/**
+ * main - Describes
+ * Return: returns 0
  */
 int main(void)
 {
