@@ -3,12 +3,8 @@
 /*
  *main - this fnx is main
  *Describtion: 'Positive and negative numbbers'
- *Return: returns 0
+ *Return: always return 0
  */
-
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;

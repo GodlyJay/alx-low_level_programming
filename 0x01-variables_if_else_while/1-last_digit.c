@@ -2,9 +2,9 @@
 #include <stdio.h>
 #include <time.h>
  /**
- * main - is the main fnxnction
- * Descibtion - prints last number
- * Return: is absolutly 0
+ *main - is the main fnxnction
+ *Descibtion: prints last number
+ *Return: is absolutly 0
  */
 int main(void)
 {
