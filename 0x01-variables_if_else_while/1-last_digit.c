@@ -1,8 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
- /* 
- * main - is the main fnxnction  
+ /**
+ * main - is the main fnxnction
+ * Descibtion - prints last number
  * Return: is absolutly 0
  */
 int main(void)
@@ -21,7 +22,7 @@ int main(void)
 	{
 		printf("Last digit of %d is %d and is 0", n, ld);
 	}
-	else 
+	else
 	{
 		printf("Last digit of %d is %d and isless than 6 and not 0", n, ld);
 	}

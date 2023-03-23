@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <time.h>
 /*
- * main - this fnx is main
- * Return: returns 0
+ *main - this fnx is main
+ *Describtion: 'Positive and negative numbbers'
+ *Return: returns 0
  */
 
 /* more headers goes there */
@@ -22,7 +23,7 @@ int main(void)
 	{
 		printf("The number is 0");
 	}
-	else 
+	else
 	{
 		printf("The number is negative");
 	}
