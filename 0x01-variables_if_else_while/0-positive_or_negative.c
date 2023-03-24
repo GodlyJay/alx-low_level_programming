@@ -1,6 +1,7 @@
+#include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/*
+/**
  *main - this fnx is main
  *Describtion: 'Positive and negative numbbers'
  *Return: always return 0
